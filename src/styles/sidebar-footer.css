@@ -1,5 +1,6 @@
 body {
   background-color: #000;
+   : var(--font-dm-sans); 
 }
 
 .sidebar {
@@ -43,7 +44,7 @@ ul li {
   text-decoration: none;
   font-weight: 600;
   font-size: 14px;
-  font-family: "DM Sans", sans-serif;
+  
 }
 
 .library {
@@ -72,7 +73,6 @@ ul li {
   border: 0;
   font-size: 14px;
   font-weight: 700;
-  font-family: "DM Sans", sans-serif;
   text-align: center;
   text-decoration: none;
   text-transform: none;
@@ -112,7 +112,7 @@ ul li {
 .section_playlist_content .text {
   padding-bottom: 2px;
   color: #fff;
-  font-family: "DM Sans", sans-serif;
+ 
 }
 
 .section_playlist_content .title {
@@ -133,7 +133,6 @@ ul li {
   border-radius: 20px;
   font-size: 12px;
   font-weight: 700;
-  font-family: "DM Sans", sans-serif;
   text-decoration: none;
   text-transform: none;
   padding: 10px;
@@ -149,7 +148,6 @@ ul li {
 
 .sidebar .cookies a {
   color: #b3b3b3;
-  font-family: "DM Sans", sans-serif;
   font-weight: 500;
   font-size: 10px;
   text-decoration: none;
